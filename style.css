@@ -47,6 +47,7 @@ a:visited{
 }
 
 .menu{
+  border-style: dotted;
     margin-right: 30px;
 }
 
